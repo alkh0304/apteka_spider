@@ -25,6 +25,6 @@ scrapy crawl apteka_spider
 
 Результаты будут сохранены в файле output.json.
 
-## Над проектом [Python Docs and PEP Parser](https://github.com/alkh0304/apteka_spider) работал:
+## Над проектом [Scrapy Аптека-от-Склада](https://github.com/alkh0304/apteka_spider) работал:
 
 [Александр Хоменко](https://github.com/alkh0304)
